@@ -14,7 +14,6 @@
     }
   ],
   "main": "./lib",
-  "browser": "./lib/main.js",
   "directories": {
     "benchmark": "./benchmark",
     "doc": "./docs",
@@ -99,7 +98,6 @@
     "typed",
     "array"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
