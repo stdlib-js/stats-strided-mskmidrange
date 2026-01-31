@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-strided-mskmidrange",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Calculate the mid-range of a strided array according to a mask.",
   "license": "Apache-2.0",
   "author": {
